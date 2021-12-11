@@ -6,5 +6,5 @@ docker compose up -d
 ```
 Para abrir o bash do docker
 ```bash
-docker exec -it nome_do_container bash
+docker exec -it golang-app-1 bash
 ```
